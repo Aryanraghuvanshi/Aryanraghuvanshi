@@ -1,5 +1,5 @@
 -  Hi, I’m @Aryanraghuvanshi
--  I’m interested in anime
+-  I’m interested in coding
 -  I’m currently learning full stack development
 -  I’m looking to collaborate on with you
 - 📫 How to reach me aryanraghuvanshi91@gmail.com
